@@ -1,5 +1,5 @@
-* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
-* BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/portafolio-web/tree/main
+<img width="517" height="528" alt="image" src="https://github.com/user-attachments/assets/79d4325e-985d-4de9-bc9c-e1b702031bc9" /><img width="517" height="528" alt="image" src="https://github.com/user-attachments/assets/c96e8013-08a8-469d-8415-a3dbc65b2a5f" />* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
+* BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/portafolio-web
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN 
 * DONOSO ARENAS IAN EDUARDO NICOLÁS 
 * GONZÁLEZ ALARCÓN FERNANDA
